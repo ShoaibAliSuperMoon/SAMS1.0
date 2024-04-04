@@ -356,7 +356,7 @@ class ShowManager : public Person{
        }   
 };
 
-long int ShowManager::id = 7893;
+long int ShowManager::id = 1;
 
 class Data{
     public:
@@ -538,7 +538,7 @@ int main(){
                     int ind;
                     cin>>ind;
                     int sz = SPList.size();
-                    int id = rand()%(sz)+7893;
+                    int id = rand()%(sz)+1;
                     int st;
                     cout<<0<<". Audinary"<<endl;
                     cout<<1<<". Balcony"<<endl;
