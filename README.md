@@ -7,9 +7,7 @@ web deployed links .
 1. https://auth-roles-react.web.app/.
 
 
-For login credentials refer me:
-Name :maddineniramkumar@gmail.com
-Pass -123456
+
 
 For frontend : ReactJs.
 
