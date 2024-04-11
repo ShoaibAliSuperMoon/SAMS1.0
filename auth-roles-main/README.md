@@ -1,26 +1,14 @@
-//Made By Ram Kumar Maddineni.
-//NIT Rourkela
 
-
-1. npm install
-2. npm start
-
-execute above commands in order to run this website in local server.
 
 web deployed links .
 
-1.https://643287dd7e2e5278df0bbf6c--astounding-churros-59db32.netlify.app/
 
-2. https://auth-roles-react.web.app/.
+1. https://auth-roles-react.web.app/.
 
-use the above only when local server is not working,
-these links have a issue.
-the issue is when we reload the links are getting broken , making us to click the web link again for access.
-So, prefer local server.
 
 For login credentials refer me:
-Name : Maddineni Ramkumar.
-Roll : 120CS0174.
+Name :maddineniramkumar@gmail.com
+Pass -123456
 
 For frontend : ReactJs.
 
