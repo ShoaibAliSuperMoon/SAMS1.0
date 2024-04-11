@@ -45,3 +45,8 @@ accountant functions :
 1. He will provide the expenditure cost for every show .
 
 REFER SRS for better understanding.
+
+PROTOTYPE WEBSITES (DISCARDED LATER ON)
+https://codesandbox.io/p/sandbox/sams1-0-dg9zn4?file=%2Fsrc%2Fcomponents%2FCreateArea.jsx%3A12%2C68
+(CODE OF THIS IS PROVIDED IN THE SAMS-QUICK-WEBSITE FOLDER)
+
